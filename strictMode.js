@@ -29,3 +29,4 @@ console.log(name)
 
 // Uncaught TypeError: Cannot set property 'name' of undefined
 
+//"this" will not refer to a newly constructed object:
